@@ -34,7 +34,7 @@ class apkdownloader():
         return api
 
 
-    def downloadApkByPackageName(self, packagename):
+    def download(self, packagename):
 
         print('-----Downloading APK-----')
         download = self.api.download(packagename, expansion_files=False)
@@ -110,7 +110,7 @@ class apkdownloader():
 def main():
     
     test = apkdownloader(GOOGLE_LOGIN,GOOGLE_PASSWORD,LOCALE,TIMEZONE)
-    test.downloadApkByPackageName("com.facebook.katana")
+    test.download("com.facebook.katana")
 
 
 

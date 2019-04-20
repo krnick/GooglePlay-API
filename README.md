@@ -19,6 +19,8 @@ Usage:
 
     ```python
     import apkdownloader
+    apk = apkdownloader.apkdownloader(mail,password,locale,timezone)
+    apk.download("package.name")
     ```
 
 
