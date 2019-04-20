@@ -1,0 +1,40 @@
+containsAds===Contains ads
+
+unstable===False
+
+description===Let&#39;s see how many pancakes you can pile up!!
+
+dependencies===[{'packageName': 'com.google.android.gms', 'version': 9452000}]
+
+permission===['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']
+
+docId===net.otouch.cake
+
+versionString===2.0A
+
+category==={'appCategory': 'GAME_CASUAL', 'appType': 'GAME'}
+
+uploadDate===Sep 29, 2016
+
+images===[{'height': 512, 'url': 'https://lh3.googleusercontent.com/7IxX_TuiJfISDn3jjdGePyuRikDHX51MHjUjt_n3mIJd8UPNOEz-xFdMkghcqYPQQ2w', 'imageType': 4, 'width': 512, 'supportsFifeUrlOptions': True}, {'height': 0, 'url': 'https://www.youtube.com/watch?v=IyksGHac_M0', 'imageType': 3, 'width': 0, 'supportsFifeUrlOptions': False}, {'height': 0, 'url': 'https://i.ytimg.com/vi/IyksGHac_M0/hqdefault.jpg', 'imageType': 13, 'width': 0, 'supportsFifeUrlOptions': False}, {'height': 0, 'url': 'https://lh6.ggpht.com/hZtonfxjxJesvrkLAJD-CNmFuC92zh-idNxfUJUczaW2Hv4xaLlAaIFk2Jw5XugvdgY', 'imageType': 2, 'width': 0, 'supportsFifeUrlOptions': True}, {'height': 0, 'url': 'https://lh3.googleusercontent.com/1scariaMl-vB0A7AZKceT5kSNyPOUChy8vC4HveRxzFhLcrEG5WnMdmXbWXm82fpqvg', 'imageType': 16, 'width': 0, 'supportsFifeUrlOptions': True}, {'height': 0, 'url': 'https://lh3.ggpht.com/qhKZyV1ICPb7mxIKZGpkqSi5D3NON4V4fVF3UKsekMALfgJTz2sPLm4eO9kCQ0PcXw', 'imageType': 1, 'width': 0, 'supportsFifeUrlOptions': True}, {'height': 0, 'url': 'https://lh4.ggpht.com/qimGFqyEAoycpZTEt4TLJDtPjmk8jeBX58UxQ5fLOvdkPk05aK2zzAI57VLqRsOFDQ', 'imageType': 1, 'width': 0, 'supportsFifeUrlOptions': True}, {'height': 2208, 'url': 'https://lh3.googleusercontent.com/vpD7FXgoBvmL-5nN86CT1I9oQ1ttk-Iu4478hwwnLk2Fk8epZMMR-GKf0I7zH5jcEtI', 'imageType': 1, 'width': 1242, 'supportsFifeUrlOptions': True}, {'height': 2208, 'url': 'https://lh3.googleusercontent.com/NY-TwfxNtwU71fmHZBmJHNNlQFEIpXbwH5Z-Dd8Bk9dCjsD6YN_vddYzbo82Oo3wmA', 'imageType': 1, 'width': 1242, 'supportsFifeUrlOptions': True}, {'height': 2208, 'url': 'https://lh3.googleusercontent.com/GvcnkYxBBZCJphZhXgxx9z3oDkrGvvFmxKO__PMt-Ww1Cx_w07m9DuGVZrG5cQqZimk', 'imageType': 1, 'width': 1242, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/RBE3WOwcXL8gVIS_wqFDXVPpRtyDMehrzzYgftsXu8A4pMjIMQ1XPjtxk8erRj2-Su0-', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/wJxifjyIgzQIbK1h4__BQeekVi920vLW90AraiosWWEvChW4C9iPvAC_JdOVYARAE6U', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/uqnXb7YKcO22cRzC8kovv2N1gpXRggW-fd34V-knOQb8vL6RrXCK7Bi2bsMQfCfRyw', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/87fFv6J7-yFy4HZ2n-w-n8ncQxGPSKAVBlSCmx2BkOah4aMe6Ci4QJS_0DsZJWRlIQ', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/IGl4VRSQe0OiJmXOqW5WH7P2HunLNV1Mi9PeP-8TyDqZXa87PiYxxyHCbKmQUZSfXQc', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 2048, 'url': 'https://lh3.googleusercontent.com/gosAvOYIHA7XE9hTJ_TvuQPAeulK3mhB8a5vO9_CCDZZv_o8BkanPhGTlFuDISUhskg', 'imageType': 1, 'width': 1536, 'supportsFifeUrlOptions': True}, {'height': 2048, 'url': 'https://lh3.googleusercontent.com/0w6VurUmRoAa6Icq3hxiROW4XUcXDZuLTO7AXNnFq2POdcpZpQJfbNolgNZ2qMMRLME', 'imageType': 1, 'width': 1536, 'supportsFifeUrlOptions': True}, {'height': 2732, 'url': 'https://lh3.googleusercontent.com/tG9TQVku7TgKB-mxMPn0DkHOdQ3Lnc_xoqNwwzgS5blOGHGlNe2zXy1L6SD4m-DGY5U', 'imageType': 1, 'width': 2048, 'supportsFifeUrlOptions': True}, {'height': 1651, 'url': 'https://lh3.googleusercontent.com/MfMdsva2WFm5EcL7lKbG5B_CNudT1ZD2eQ5O_n__vPTHchaZ0OUhdpp-tXaRIYY8i4Ns', 'imageType': 1, 'width': 1242, 'supportsFifeUrlOptions': True}, {'height': 2048, 'url': 'https://lh3.googleusercontent.com/MKUfLDAIT5cwYB73Cj_4MYLlMDoGj3Ki2zszN3rxBt--6SzBR1tiKbj0epa6aYsO8g', 'imageType': 1, 'width': 1536, 'supportsFifeUrlOptions': True}]
+
+aggregateRating==={'twoStarRatings': 4839, 'threeStarRatings': 9155, 'ratingsCount': 86698, 'type': 2, 'fourStarRatings': 12638, 'starRating': 4.069955348968506, 'commentCount': 21612, 'fiveStarRatings': 51274, 'oneStarRatings': 8792}
+
+detailsUrl===details?doc=net.otouch.cake
+
+recentChanges===Game logic has changed that you can get higher score than before.
+
+author===O!TOUCH
+
+numDownloads===10,000,000+ downloads
+
+files===[{'version': 9, 'size': 6933121, 'fileType': 0}]
+
+versionCode===9
+
+installationSize===6933121
+
+title===Pancake Tower
+
+offer===[{'offerType': 1, 'currencyCode': 'USD', 'formattedAmount': '', 'checkoutFlowRequired': False, 'saleEnds': '', 'micros': 0}]
+

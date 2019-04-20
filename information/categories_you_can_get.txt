@@ -1,0 +1,35 @@
+{'catId': 'ART_AND_DESIGN', 'dataUrl': 'homeV2?cat=ART_AND_DESIGN&c=3', 'name': 'Art & Design'}
+{'catId': 'AUTO_AND_VEHICLES', 'dataUrl': 'homeV2?cat=AUTO_AND_VEHICLES&c=3', 'name': 'Auto & Vehicles'}
+{'catId': 'BEAUTY', 'dataUrl': 'homeV2?cat=BEAUTY&c=3', 'name': 'Beauty'}
+{'catId': 'BOOKS_AND_REFERENCE', 'dataUrl': 'homeV2?cat=BOOKS_AND_REFERENCE&c=3', 'name': 'Books & Reference'}
+{'catId': 'BUSINESS', 'dataUrl': 'homeV2?cat=BUSINESS&c=3', 'name': 'Business'}
+{'catId': 'COMICS', 'dataUrl': 'homeV2?cat=COMICS&c=3', 'name': 'Comics'}
+{'catId': 'COMMUNICATION', 'dataUrl': 'homeV2?cat=COMMUNICATION&c=3', 'name': 'Communication'}
+{'catId': 'DATING', 'dataUrl': 'homeV2?cat=DATING&c=3', 'name': 'Dating'}
+{'catId': 'EDUCATION', 'dataUrl': 'homeV2?cat=EDUCATION&c=3', 'name': 'Education'}
+{'catId': 'ENTERTAINMENT', 'dataUrl': 'homeV2?cat=ENTERTAINMENT&c=3', 'name': 'Entertainment'}
+{'catId': 'EVENTS', 'dataUrl': 'homeV2?cat=EVENTS&c=3', 'name': 'Events'}
+{'catId': 'FAMILY', 'dataUrl': 'homeV2?cat=FAMILY&c=3', 'name': 'Family'}
+{'catId': 'FINANCE', 'dataUrl': 'homeV2?cat=FINANCE&c=3', 'name': 'Finance'}
+{'catId': 'FOOD_AND_DRINK', 'dataUrl': 'homeV2?cat=FOOD_AND_DRINK&c=3', 'name': 'Food & Drink'}
+{'catId': 'GAME', 'dataUrl': 'homeV2?cat=GAME&c=3', 'name': 'Games'}
+{'catId': 'HEALTH_AND_FITNESS', 'dataUrl': 'homeV2?cat=HEALTH_AND_FITNESS&c=3', 'name': 'Health & Fitness'}
+{'catId': 'HOUSE_AND_HOME', 'dataUrl': 'homeV2?cat=HOUSE_AND_HOME&c=3', 'name': 'House & Home'}
+{'catId': 'LIBRARIES_AND_DEMO', 'dataUrl': 'homeV2?cat=LIBRARIES_AND_DEMO&c=3', 'name': 'Libraries & Demo'}
+{'catId': 'LIFESTYLE', 'dataUrl': 'homeV2?cat=LIFESTYLE&c=3', 'name': 'Lifestyle'}
+{'catId': 'MAPS_AND_NAVIGATION', 'dataUrl': 'homeV2?cat=MAPS_AND_NAVIGATION&c=3', 'name': 'Maps & Navigation'}
+{'catId': 'MEDICAL', 'dataUrl': 'homeV2?cat=MEDICAL&c=3', 'name': 'Medical'}
+{'catId': 'MUSIC_AND_AUDIO', 'dataUrl': 'homeV2?cat=MUSIC_AND_AUDIO&c=3', 'name': 'Music & Audio'}
+{'catId': 'NEWS_AND_MAGAZINES', 'dataUrl': 'homeV2?cat=NEWS_AND_MAGAZINES&c=3', 'name': 'News & Magazines'}
+{'catId': 'PARENTING', 'dataUrl': 'homeV2?cat=PARENTING&c=3', 'name': 'Parenting'}
+{'catId': 'PERSONALIZATION', 'dataUrl': 'homeV2?cat=PERSONALIZATION&c=3', 'name': 'Personalization'}
+{'catId': 'PHOTOGRAPHY', 'dataUrl': 'homeV2?cat=PHOTOGRAPHY&c=3', 'name': 'Photography'}
+{'catId': 'PRODUCTIVITY', 'dataUrl': 'homeV2?cat=PRODUCTIVITY&c=3', 'name': 'Productivity'}
+{'catId': 'SHOPPING', 'dataUrl': 'homeV2?cat=SHOPPING&c=3', 'name': 'Shopping'}
+{'catId': 'SOCIAL', 'dataUrl': 'homeV2?cat=SOCIAL&c=3', 'name': 'Social'}
+{'catId': 'SPORTS', 'dataUrl': 'homeV2?cat=SPORTS&c=3', 'name': 'Sports'}
+{'catId': 'TOOLS', 'dataUrl': 'homeV2?cat=TOOLS&c=3', 'name': 'Tools'}
+{'catId': 'TRAVEL_AND_LOCAL', 'dataUrl': 'homeV2?cat=TRAVEL_AND_LOCAL&c=3', 'name': 'Travel & Local'}
+{'catId': 'VIDEO_PLAYERS', 'dataUrl': 'homeV2?cat=VIDEO_PLAYERS&c=3', 'name': 'Video Players & Editors'}
+{'catId': 'ANDROID_WEAR', 'dataUrl': 'homeV2?cat=ANDROID_WEAR&c=3', 'name': 'Wear OS by Google'}
+{'catId': 'WEATHER', 'dataUrl': 'homeV2?cat=WEATHER&c=3', 'name': 'Weather'}
