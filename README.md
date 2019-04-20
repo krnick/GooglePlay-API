@@ -10,12 +10,13 @@ Usage:
     git clone https://github.com/krnick/apk-downloader.git
     ```
 
-    ```
 
 * How to use:
     ```
     $ pip3 install apk-downloader
     ```
+
+
 
     ```python
     import apkdownloader
