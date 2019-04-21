@@ -10,8 +10,9 @@ from cryptography.hazmat.primitives.serialization import load_der_public_key
 from cryptography.hazmat.primitives.asymmetric import padding
 
 import requests
-
-import googleplay_pb2, config, utils
+from .googleplay_pb2 import *
+from .config import *
+from .utils import *
 
 ssl_verify = True
 

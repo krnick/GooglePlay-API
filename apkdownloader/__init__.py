@@ -1,4 +1,4 @@
-from googleplay import GooglePlayAPI
+from .googleplay import GooglePlayAPI
 #########################################################################
 # need email and password
 # need to login on https://accounts.google.com/b/0/DisplayUnlockCaptcha
