@@ -1,6 +1,6 @@
 import struct
 import sys
-from . import googleplay_pb2
+import googleplay_pb2
 
 VERSION = sys.version_info[0]
 

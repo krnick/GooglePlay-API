@@ -1,4 +1,4 @@
-from . import googleplay_pb2
+import googleplay_pb2
 from time import time
 from os import path
 from sys import version_info

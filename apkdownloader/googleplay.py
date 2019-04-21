@@ -11,7 +11,7 @@ from cryptography.hazmat.primitives.asymmetric import padding
 
 import requests
 
-from . import googleplay_pb2, config, utils
+import googleplay_pb2, config, utils
 
 ssl_verify = True
 

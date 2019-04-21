@@ -1,6 +1,4 @@
-from Google_play_api.googleplay import GooglePlayAPI
-from config.config import LOCALE, TIMEZONE, GOOGLE_PASSWORD, GOOGLE_LOGIN
-
+from googleplay import GooglePlayAPI
 #########################################################################
 # need email and password
 # need to login on https://accounts.google.com/b/0/DisplayUnlockCaptcha
@@ -108,7 +106,13 @@ class apkdownloader():
             print(app['docId'])
 
 def main():
-    
+
+    GOOGLE_LOGIN = ""
+    GOOGLE_PASSWORD = ""
+    LOCALE = "en_US"
+    TIMEZONE = "TW"
+
+
     test = apkdownloader(GOOGLE_LOGIN,GOOGLE_PASSWORD,LOCALE,TIMEZONE)
     test.download("com.facebook.katana")
 

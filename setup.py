@@ -10,7 +10,7 @@ from setuptools import  setup, find_packages
 
 setup(
     name="apkdownloader",
-    version="0.0.1",
+    version="0.0.2",
     keywords=("apk","apk download","download apk"),
     description="Download apk from Google Play via package name.",
     long_description=long_description,
@@ -20,7 +20,10 @@ setup(
     author="SONG,JUN-WEI",
     author_email="sungboss2004@gmail.com",
     packages=find_packages(),
-    install_requires=[            
+    package_data={
+            'device.properties':['device.properties']
+        },
+    install_requires=[
                 'cryptography',
                 'requests',
                 'protobuf'
