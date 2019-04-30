@@ -1,5 +1,6 @@
-# apk-downloader
-use google api download apk via python3
+# GooglePlay-API
+
+use google api download apk or get details from apk via python3
 
 
 Usage:
@@ -7,7 +8,7 @@ Usage:
 * Download project
 
     ```
-    git clone https://github.com/krnick/apk-downloader.git
+    git clone https://github.com/krnick/GooglePlay-API.git
     ```
 
 
